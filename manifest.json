@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "version": "1",
+  "name": "Broken Inspector Example",
+  "permissions": [],
+  "background": {
+    "scripts": []
+  },
+  "sidebar_action": {
+    "default_title": "Example Side Bar",
+    "default_panel": "sidebar.html"
+  }
+}
